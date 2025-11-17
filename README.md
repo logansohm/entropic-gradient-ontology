@@ -25,7 +25,7 @@ converges to the universal, stable equilibrium:
 Paste into a Colab cell:
 
 ```python
-!git clone https://github.com/YOUR_USERNAME/entropic-gradient-ontology.git
+!git clone https://github.com/logansohm/entropic-gradient-ontology.git
 %cd entropic-gradient-ontology
 !pip install -r requirements.txt
 python run_simulation.py
